@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Lily+Script+One&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  background: #1E1E1E;
+}
+nav li {
+  display: flex;
+  height: 50px;
+  align-items: center;
+}
+nav a {
+  text-decoration: none;
+  color: #FFFFFF;
+  font-family: Lily Script One;
+}
+
+header img {
+  width: 100%;
+}
+
+main ul {
+  padding-top: 50px;
+}
+
+ul {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+
+footer {
+  margin-top: 50px;
+  background: #1E1E1E;
+  width: 100%;
+  color: #FFFFFF;
+}
+footer ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}/*# sourceMappingURL=style.css.map */
